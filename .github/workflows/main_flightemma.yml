@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Flightemma'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06209B38C1514566AF5802AC97D8F52E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47CA2717FAFA4EDC974157A9820DFF6C }}
